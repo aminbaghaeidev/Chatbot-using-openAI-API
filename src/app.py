@@ -5,8 +5,9 @@ st.title(":robot: Simple ChatBot")
 
 with st.sidebar:
     openai_api_key = st.text_input("Your API Key", key="chatbot_api_key", type="password")
+    "[New Window]()"
     "[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
-    "[View the source code]()"
+    "[View the source code](https://github.com/aminbaghaeidev/Chatbot-using-openAI-API)"
 
 if "messages" not in st.session_state:
     st.session_state["messages"] = [{"role": "assistant", "content": "How can I help you?"}]
