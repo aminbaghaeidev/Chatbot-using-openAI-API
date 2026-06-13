@@ -67,3 +67,14 @@ Enter your OpenAI API key in the **sidebar** of the app. The key is never stored
 
 - Chat history is maintained per session using `st.session_state`.
 - The app does **not** pass conversation history to the API — each message is sent independently.
+
+
+You can visit streamlit streamlit [documentation](https://docs.streamlit.io) and [community
+forums](https://discuss.streamlit.io).
+
+---
+
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
