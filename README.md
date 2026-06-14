@@ -6,6 +6,12 @@ A simple chatbot web app built with **Streamlit** and **OpenAI GPT API**.
 
 ---
 
+***Live demo available on Hugging Face 👇***
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-yellow)](https://huggingface.co/spaces/woitsamin/st_chatbot)
+
+---
+
 ## 📁 Project Structure
 
 ```
