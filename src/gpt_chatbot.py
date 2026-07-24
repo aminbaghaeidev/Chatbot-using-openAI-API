@@ -30,5 +30,5 @@ def chatbot(user_message: str, api: str) -> str:
 
 
 if __name__ == '__main__':
-    API = "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"
+    API = "EXAMPLE_API_KEY"
     print(chatbot('Hello!', api=API))
